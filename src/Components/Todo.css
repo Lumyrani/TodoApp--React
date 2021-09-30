@@ -1,0 +1,11 @@
+.todo{
+    background-color: palevioletred;
+    width: 100%;
+    text-align: center;
+}
+
+.strike{
+    text-decoration: line-through;}
+    .no-strike{
+        text-decoration: none;
+    }
